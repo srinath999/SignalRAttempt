@@ -49,7 +49,6 @@ namespace SimpleBroadCast
 
 
             app.UseAuthorization();
-            app.use
 
             app.UseEndpoints(endpoints =>
             {
